@@ -62,7 +62,7 @@ fun logicas(){
 
     //Operaciones
     var nueva = !tOrF
-    nueva = 10 > 5
+    nueva = 10 > 6
     val nueva2 = trueOrFalse || tOrF
     nueva = trueOrFalse && tOrF
     val nueva3 = nueva || nueva2
